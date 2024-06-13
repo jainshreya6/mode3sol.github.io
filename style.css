@@ -17,6 +17,7 @@ body {
 	width: 150px;
 	height: 150px;
 	margin: 10px 5px 10px 0px;
+	float: left;
 }
 .navbar-brand{
 	padding-top:25px ;
